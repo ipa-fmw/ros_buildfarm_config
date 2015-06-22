@@ -8,7 +8,7 @@ jenkins_source_job_priority: 81
 jenkins_source_job_timeout: 30
 notifications:
   emails:
-  - mathias.luedtke@ipa.fraunhofer.de
+  - fmw@ipa.fhg.de
   maintainers: false
   committers: false
 maintainers: #needed?

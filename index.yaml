@@ -4,12 +4,14 @@
 distributions:
   indigo:
     notification_emails:
-    - mathias.luedtke@ipa.fraunhofer.de
+    - fmw@ipa.fhg.de
     release_builds:
       default: indigo/release-build.yaml
+    source_builds:
+      default: indigo/source-build.yaml
 jenkins_url: http://192.168.42.11:8080
 notification_emails:
-- mathias.luedtke@ipa.fraunhofer.de
+- fmw@ipa.fhg.de
 prerequisites:
   debian_repositories:
   - http://192.168.42.22/ubuntu/building
