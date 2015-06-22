@@ -14,7 +14,7 @@ notifications:
 maintainers: #needed?
   committers: false
 sync:
-  package_count: 1300
+  package_count: 50
 repositories:
   keys:
   - |
